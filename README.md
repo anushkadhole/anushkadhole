@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Anushka Dhole!  
 *Empowering people through tech, one line of code at a time.*
 
-## 💡 About Me
+## * About Me
 I’m a Computer Science student, developer, and lifelong learner with a passion for ethical tech, empowering underrepresented voices, and building useful tools that make life easier.
 
 🔭 **Currently Building:**  
