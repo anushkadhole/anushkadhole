@@ -28,5 +28,5 @@ I’m a Computer Science student at SJSU, developer, and lifelong learner with a
 ```bash
 💻 Languages:        Java | Python | JavaScript | SQL | C++
 🧰 Tools & Frameworks: Flask | React.js | Node.js | TailwindCSS | pandas | Git| TypeScript
-☁️ Cloud & DB:        MySQL | Vercel | Firebase | PostgreSQL | MongoDB
+☁️ Cloud & DB:        MySQL | AWS | Firebase | PostgreSQL | MongoDB| GCP
 🤖 Emerging Tech:    Fetch.ai | AI APIs | OPEN AI API | Database Systems
