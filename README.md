@@ -2,7 +2,7 @@
 *Empowering people through tech, one line of code at a time.*
 
 ## * About Me
-I’m a Computer Science student, developer, and lifelong learner with a passion for ethical tech, empowering underrepresented voices, and building useful tools that make life easier.
+I’m a Computer Science student at SJSU, developer, and lifelong learner with a passion for ethical tech, empowering underrepresented voices, and building useful tools that make life easier.
 
 🔭 **Currently Building:**  
 → *SmartRetailPro*, a full-stack Point-of-Sale system with real-time analytics  
