@@ -33,3 +33,6 @@ I’m a Computer Science student at San Jose State University, developer, and li
 🧰 Tools & Frameworks: Flask | React.js | Node.js | TailwindCSS | pandas | Git| TypeScript
 ☁️ Cloud & DB:        MySQL | AWS | Firebase | PostgreSQL | MongoDB| GCP
 🤖 Emerging Tech:    Fetch.ai | AI APIs | OPEN AI API | Database Systems
+
+Tech Stack
+C++ C CSS3 JavaScript Python Java HTML5 Go GraphQL Kotlin PHP Swift TypeScript Scala AWS Azure Cloudflare Datadog Google Cloud Oracle Vercel OpenStack Netlify Firebase Heroku .Net Angular Bootstrap FastAPI Django Flask Flutter NodeJS Next JS React React Native Spring Vue.js AmazonDynamoDB MicrosoftSQLServer MongoDB MySQL SQLite Redis Postgres Supabase Single Store Canva Pandas NumPy Keras scikit-learn SciPy TensorFlow Docker Postman Confluence Portfolio Notion Jira Kubernetes ElasticSearch
