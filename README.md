@@ -1,8 +1,3 @@
-# My GitHub Contribution Artwork
-
-![gitartwork](gitartwork.svg)
-
-
 # 👋 Hey there, I'm Anushka Dhole!  
 *Empowering people through tech, one line of code at a time.*
 
