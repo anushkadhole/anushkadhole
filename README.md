@@ -30,6 +30,6 @@ I’m a Computer Science student at San Jose State University, developer, and li
 
 ```bash
 💻 Languages:        Java | Python | JavaScript | Kotlin | C++/C
-🧰 Tools & Frameworks: Flask | React.js | Node.js | TailwindCSS | pandas | Git| TypeScript | Node.js
+🧰 Tools & Frameworks: Flask | React.js | Node.js | TailwindCSS | pandas | Git| TypeScript | Node.js| REST API
 ☁️ Cloud & DB:        MySQL | AWS | Firebase | PostgreSQL | MongoDB| GCP
 🤖 Emerging Tech:    Fetch.ai | AI APIs | OPEN AI API | Database Systems
