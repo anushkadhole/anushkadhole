@@ -30,5 +30,3 @@ I’m a Computer Science student at SJSU, developer, and lifelong learner with a
 🧰 Tools & Frameworks: Flask | React.js | Node.js | TailwindCSS | pandas | Git| TypeScript
 ☁️ Cloud & DB:        MySQL | AWS | Firebase | PostgreSQL | MongoDB| GCP
 🤖 Emerging Tech:    Fetch.ai | AI APIs | OPEN AI API | Database Systems
-
-![gitartwork](https://github.com/anushkadhole/gitartwork/blob/main/gitartwork.svg?raw=true)
