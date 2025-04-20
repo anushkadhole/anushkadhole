@@ -1,4 +1,7 @@
-# 👋 Hey there, I'm Anushka Dhole!  
+# Hey there 👋, I'm Anushka Dhole
+
+![gitartwork](https://github.com/anushkadhole/gitname/blob/main/gitartwork.svg?raw=true)
+
 *Empowering people through tech, one line of code at a time.*
 
 ## * About Me
