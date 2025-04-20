@@ -30,21 +30,3 @@ I’m a Computer Science student at SJSU, developer, and lifelong learner with a
 🧰 Tools & Frameworks: Flask | React.js | Node.js | TailwindCSS | pandas | Git| TypeScript
 ☁️ Cloud & DB:        MySQL | AWS | Firebase | PostgreSQL | MongoDB| GCP
 🤖 Emerging Tech:    Fetch.ai | AI APIs | OPEN AI API | Database Systems
-
- name: gitartwork from a contribution graph
- on: 
-   push:
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: jasineri
-            # Text on contribution graph 
-            text: ANUSHKA
-       - uses: jasineri/simple-push-action@v1
-
