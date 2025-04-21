@@ -7,7 +7,7 @@
 ## * About Me
 I’m a Computer Science student at San Jose State University, developer, and lifelong learner with a passion for ethical tech, empowering underrepresented voices, and building useful tools that make life easier.
 
-🔭 **Currently Building:**  
+**Currently Building:**  
 → *SmartRetailPro*, a full-stack Point-of-Sale system with real-time analytics  
 → *TaskScheduler AI Agent*, using Fetch.ai to automate productivity
 
