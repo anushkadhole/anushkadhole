@@ -9,7 +9,7 @@ I’m a Computer Science student at San Jose State University, developer, and li
 
 **Currently Building:**  
 → *SmartRetailPro*, a full-stack Point-of-Sale system with real-time analytics  
-→ AI Powered Bot for Disabled & Underrepresented Students
+→ AI Powered Bot for Disabled & Underrepresented Students to thrive in STEM.
 
 🌱 **Technical Skills:**  
 → React ⚛️, TypeScript 🧩, PostgreSQL 🐘, Cloud deployment ☁️  
