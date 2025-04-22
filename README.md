@@ -12,7 +12,7 @@ I’m a Computer Science student at San Jose State University, developer, and li
 → AI Powered Bot for Disabled & Underrepresented Students to thrive in STEM.
 
 🌱 **Technical Skills:**  
-→ React ⚛️, TypeScript 🧩, PostgreSQL 🐘, Cloud deployment ☁️  
+→ React ⚛️, TypeScript, PostgreSQL, Cloud deployment ☁️  
 → AI & ML use cases for everyday apps  
 → Ethical frameworks in computing & responsible software development
 
@@ -23,8 +23,6 @@ I’m a Computer Science student at San Jose State University, developer, and li
 
 📚 **Mentorship & Leadership:**    
 - Awarded 🎓 *Peer Mentor Scholarship* for commitment to diversity in tech  
-
----
 
 ## 🚀 Tech Stack
 
