@@ -16,7 +16,7 @@ I’m a Computer Science student at San Jose State University, developer, and li
 - Awarded 🎓 *Peer Mentor Scholarship* for commitment to diversity in tech  
 
 ## 🌱 Tech Stack
---bash
+``bash
 💻 Languages:           Java | Python | JavaScript | Kotlin | C++/C
 🧰 Tools & Frameworks:  Flask | React.js | Node.js | TailwindCSS | pandas | Git| TypeScript | Next.js| REST API| Docker| Kubernetes
 ☁️ Cloud & Database:    MySQL | AWS | Firebase | PostgreSQL | MongoDB| GCP | AWS Lambda| AWS Cognito | Dynamo DB
