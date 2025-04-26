@@ -31,7 +31,3 @@ I’m a Computer Science student at San Jose State University, developer, and li
 🧰 Tools & Frameworks:  Flask | React.js | Node.js | TailwindCSS | pandas | Git| TypeScript | Next.js| REST API| Docker| Kubernetes
 ☁️ Cloud & Database:    MySQL | AWS | Firebase | PostgreSQL | MongoDB| GCP | AWS Lambda| AWS Cognito | Dynamo DB
 🤖 Emerging Tech:     Fetch.ai | AI APIs | OPEN AI API | Database Systems | Agile Technology
-
-
-
-https://wildrydes-anushka-dhole.s3.us-west-2.amazonaws.com/signin.html 
