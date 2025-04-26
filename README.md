@@ -15,9 +15,15 @@ I’m a Computer Science student at San Jose State University, developer, and li
 📚 **Mentorship & Leadership:**    
 - Awarded 🎓 *Peer Mentor Scholarship* for commitment to diversity in tech  
 
-## 🌱 Tech Stack
+🌱 Tech Stack
+💻 Languages
+Java | Python | JavaScript | TypeScript | Kotlin | C++/C
 
-💻 Languages:           Java | Python | JavaScript | Kotlin | C++/C
-🧰 Tools & Frameworks:  Flask | React.js | Node.js | TailwindCSS | pandas | Git| TypeScript | Next.js| REST API| Docker| Kubernetes
-☁️ Cloud & Database:    MySQL | AWS | Firebase | PostgreSQL | MongoDB| GCP | AWS Lambda| AWS Cognito | Dynamo DB
-🤖 Emerging Tech:     Fetch.ai | AI APIs | OPEN AI API | Database Systems | Agile Technology
+🧰 Tools & Frameworks
+React.js | Next.js | Node.js | Flask | TailwindCSS | Git | REST API | Docker | Kubernetes
+
+☁️ Cloud & Databases
+AWS (Lambda, Cognito) | Google Cloud Platform (GCP) | Firebase | MySQL | PostgreSQL | MongoDB | DynamoDB
+
+🤖 Emerging Technologies
+OpenAI API | Fetch.ai | AI APIs | Database Systems | Agile Methodologies
