@@ -8,7 +8,7 @@
 I’m a Computer Science student at San Jose State University, developer, and lifelong learner with a passion for ethical tech, empowering underrepresented voices, and building useful tools that make life easier.
 
 👩‍💻 **Technical Skills:**  
-→ React ⚛️, TypeScript, PostgreSQL, Cloud deployment ☁️  
+→ React ⚛️, TypeScript, PostgreSQL, Cloud deployment 
 → AI & ML use cases for everyday apps  
 → Ethical frameworks in computing & responsible software development
 
@@ -16,6 +16,7 @@ I’m a Computer Science student at San Jose State University, developer, and li
 - Awarded 🎓 *Peer Mentor Scholarship* for commitment to diversity in tech  
 
 ## 🌱 Tech Stack
+
 💻 Languages:           Java | Python | JavaScript | Kotlin | C++/C
 🧰 Tools & Frameworks:  Flask | React.js | Node.js | TailwindCSS | pandas | Git| TypeScript | Next.js| REST API| Docker| Kubernetes
 ☁️ Cloud & Database:    MySQL | AWS | Firebase | PostgreSQL | MongoDB| GCP | AWS Lambda| AWS Cognito | Dynamo DB
