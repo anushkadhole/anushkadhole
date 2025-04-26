@@ -27,7 +27,7 @@ I’m a Computer Science student at San Jose State University, developer, and li
 ## 🚀 Tech Stack
 
 ```bash
-💻 Languages:        Java | Python | JavaScript | Kotlin | C++/C
-🧰 Tools & Frameworks: Flask | React.js | Node.js | TailwindCSS | pandas | Git| TypeScript | Next.js| REST API| Docker| Kubernetes
-☁️ Cloud & Database:        MySQL | AWS | Firebase | PostgreSQL | MongoDB| GCP | AWS Lambda| AWS Cognito | Dynamo DB
-🤖 Emerging Tech:     Fetch.ai | AI APIs | OPEN AI API | Database Systems | Agile Technology
+💻 Languages:           Java | Python | JavaScript | Kotlin | C++/C
+🧰 Tools & Frameworks:  Flask | React.js | Node.js | TailwindCSS | pandas | Git| TypeScript | Next.js| REST API| Docker| Kubernetes
+☁️ Cloud & Database:    MySQL | AWS | Firebase | PostgreSQL | MongoDB| GCP | AWS Lambda| AWS Cognito | Dynamo DB
+🤖 Emerging Tech:     Fetch.ai | AI APIs | OPEN AI API | Database Systems | Agile Technology 
