@@ -24,7 +24,7 @@ I’m a Computer Science student at San Jose State University, developer, and li
    React.js | Next.js | Node.js | Flask | TailwindCSS | Git | REST API | Docker | Kubernetes
 
 ☁️ Cloud & Databases:
-   AWS (Lambda, Cognito) | GCP | Firebase | MySQL | PostgreSQL | MongoDB | DynamoDB
+   AWS Cloud | GCP | Firebase | MySQL | PostgreSQL | MongoDB | DynamoDB
 
 🤖 Emerging Technologies:
    OpenAI API | Fetch.ai | AI APIs | Database Systems | Agile Methodologies
