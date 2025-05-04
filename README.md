@@ -8,7 +8,7 @@
 I’m a Computer Science student at San Jose State University, developer, and lifelong learner with a passion for ethical tech, empowering underrepresented voices, and building useful tools that make life easier.
 
 👩‍💻 **Technical Skills:**  
-→ React ⚛️, TypeScript, PostgreSQL, Cloud deployment 
+→ React ⚛️, TypeScript, PostgreSQL, Cloud deployment
 → AI & ML use cases for everyday apps  
 → Ethical frameworks in computing & responsible software development
 
